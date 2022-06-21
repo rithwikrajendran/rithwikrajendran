@@ -8,6 +8,7 @@ I'm Rithwik, a Data Scientist who does data science at work and at university bu
 
 🔸Some of my public football analytics (data visualisations) and writing 👇
 
+   - [Matplotlib Usage Charts](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/)
    - [Public Football Analytics work on Twitter](https://twitter.com/i/events/1438470740441976843?s=20)
    - [Data and Video Scouting for The Celtic Way](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
    - [Founder, The Nutmeg Assist](https://nutmegassist.com/)
