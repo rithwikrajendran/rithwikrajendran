@@ -1,23 +1,20 @@
-## The who and what
+### Hi there 👋
 
-Hi there 👋, welcome to my GitHub profile! 
+I'm Rithwik, a Data Scientist who does data science at work and at university but work with football otherwise.
 
-I'm a Data Scientist, who worked at Wipro Limited for 3 years. I have a Bachelor's in Computer Science and Engineering and I'm currently coming towards the end of my Master's in Data Science from the University of Bristol.
+🔸I'm currently doing my MSc in Data Science from the University of Bristol.
 
-I started off my career as a software developer 🖥️ before jumping into Data Science 📊 within Wipro. I have specialized working with Python and have experience working with both supervised and unsupervised machine learning algorithms and techniques. I also have limited experience working with deep learning using PyTorch.
+🔸I previously worked at Wipro Limited as a Data Scientist, mainly writing code using Python and doing a lot of data analysis, visualisations and ML.
 
-In my spare time, I like to watch football, analyse games and write articles. I also do football analytics as a hobby and enjoy making fun data visualisations using Matplotlib and Tableau.
+🔸Some of my public football analytics (data visualisations) and writing 👇
 
-You can find a good amount of my code and pet-projects here on GitHub. But I also post some of my visualisations on Twitter etc.
-
-1. [Public Football Analytics work on Twitter](https://twitter.com/i/events/1438470740441976843?s=20)
-2. [Data and Video Scouting for The Celtic Way](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
-3. [Founder, The Nutmeg Assist](https://nutmegassist.com/)
+   - [Public Football Analytics work on Twitter](https://twitter.com/i/events/1438470740441976843?s=20)
+   - [Data and Video Scouting for The Celtic Way](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
+   - [Founder, The Nutmeg Assist](https://nutmegassist.com/)
 
 ### 📮 Get in touch
 
-You can reach out to me via [email](mailto:rithwikrajendran@gmail.com), [Twitter (@rithwikrajendra)](https://twitter.com/rithwikrajendra) or [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
-
+You can reach out to me via [Email](mailto:rithwikrajendran@gmail.com), [Twitter (@rithwikrajendra)](https://twitter.com/rithwikrajendra) or [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
 
 <!--
 **rithwikrajendran/rithwikrajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
