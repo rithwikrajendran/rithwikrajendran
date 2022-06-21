@@ -1,4 +1,4 @@
-# Rithwik Rajendran - Data Scientist
+## The who and what
 
 Hi there 👋, welcome to my GitHub profile! 
 
@@ -14,7 +14,7 @@ You can find a good amount of my code and pet-projects here on GitHub. But I als
 2. [Data and Video Scouting for The Celtic Way](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
 3. [Founder, The Nutmeg Assist](https://nutmegassist.com/)
 
-# 📮 Get in touch
+### 📮 Get in touch
 
 You can reach out to me via [email](mailto:rithwikrajendran@gmail.com), [Twitter (@rithwikrajendra)](https://twitter.com/rithwikrajendra) or [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
 
