@@ -1,6 +1,8 @@
 # Rithwik Rajendran - Data Scientist
 
-Hi there, welcome to my GitHub profile. I'm a Data Scientist, who worked at Wipro Limited for 3 years. I have a Bachelor's in Computer Science and Engineering and I'm currently coming towards the end of my Master's in Data Science from the University of Bristol.
+Hi there, welcome to my GitHub profile! 
+
+I'm a Data Scientist, who worked at Wipro Limited for 3 years. I have a Bachelor's in Computer Science and Engineering and I'm currently coming towards the end of my Master's in Data Science from the University of Bristol.
 
 I started off my career as a software developer before jumping into Data Science within Wipro. I have specialized working with Python and have experience working with both supervised and unsupervised machine learning algorithms and techniques. I also have limited experience working with deep learning using PyTorch.
 
