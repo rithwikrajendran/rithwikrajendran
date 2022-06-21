@@ -16,7 +16,7 @@ You can find a good amount of my code and pet-projects here on GitHub. But I als
 
 # 📮 Get in touch
 
-You can reach out to me via [email](rithwikrajendran@gmail.com), [Twitter (@rithwikrajendra)](https://twitter.com/rithwikrajendra) or [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
+You can reach out to me via [email](mailto:rithwikrajendran@gmail.com), [Twitter (@rithwikrajendra)](https://twitter.com/rithwikrajendra) or [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
 
 
 <!--
