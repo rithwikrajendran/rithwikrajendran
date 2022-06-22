@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rithwik, a Data Scientist who does data science at work and at university but work with football otherwise.
+I'm Rithwik, a Data Scientist who does data science at work and university but work with football otherwise.
 
 🔸I'm currently doing my MSc in Data Science from the University of Bristol.
 
