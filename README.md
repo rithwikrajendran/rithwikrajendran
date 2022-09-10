@@ -10,7 +10,6 @@ I'm Rithwik, a Data Scientist who does data science at work and university but w
 
    - [Battery Charts to visualise usage - Matplotlib](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/)
    - [Public Football Analytics work - Data Visualisations](https://twitter.com/i/events/1438470740441976843?s=20)
-   - [Data and Video Scouting - Data Analysis, Visualisation and football writing](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
    - [Passion Project - Founder, The Nutmeg Assist](https://nutmegassist.com/)
 
 ### 📮 Get in touch
