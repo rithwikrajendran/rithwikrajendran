@@ -4,7 +4,7 @@ I'm Rithwik, a Data Scientist who does data science at work and university but w
 
 🔸I'm currently doing my MSc in Data Science from the University of Bristol.
 
-🔸I previously worked at Wipro Limited as a Data Scientist, mainly writing code using Python and doing a lot of data analysis, visualisations and ML.
+🔸I previously worked at Wipro Limited as a Data Scientist, mainly writing code using Python and doing a lot of data analysis, visualisations in addition to some machine learning and natural language processing.
 
 🔸Some of my public football analytics (data visualisations) and writing 👇
 
