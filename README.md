@@ -11,6 +11,8 @@ I'm Rithwik, a Data Scientist who does data science at work and university but w
    - [Battery Charts to visualise usage - Matplotlib](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/)
    - [Public Football Analytics work - Data Visualisations](https://twitter.com/i/events/1438470740441976843?s=20)
    - [Passion Project - Founder, The Nutmeg Assist](https://nutmegassist.com/)
+   
+🔸Explore my Tableau dashboards on Tableau Public - [Profile](https://public.tableau.com/app/profile/rithwik.rajendran)
 
 ### 📮 Get in touch
 
