@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Rithwik, a Data Scientist at ASDA. I work on the customer side, creating value for the company and customers by using ML to drive business decisions.
+I'm Rithwik, a Senior Data Scientist at ASDA. I work on the customer side, creating value for the company and customers using ML to drive business decisions.
 
 🔸I have completed my MSc in Data Science from the University of Bristol.
 
-🔸I previously worked at Wipro Limited as a Data Scientist, mainly writing code using Python and doing a lot of data analysis, and visualisations in addition to some machine learning and natural language processing.
+🔸I previously worked at Wipro Limited as a Data Scientist, mainly writing code using Python and doing a lot of data analysis, visualisations, and some machine learning and natural language processing.
 
 🔸Some of my public football analytics (data visualisations) and writing 👇
 
