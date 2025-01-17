@@ -16,7 +16,7 @@ I'm Rithwik, a Senior Data Scientist at ASDA. I work on the customer side, creat
 
 ### 📮 Get in touch
 
-You can reach out to me via [Email](mailto:rithwikrajendran@gmail.com), [Twitter (@rithwikrajendra)](https://twitter.com/rithwikrajendra) or [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
+You can reach out to me via [Email](mailto:rithwikrajendran@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
 
 <!--
 **rithwikrajendran/rithwikrajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
