@@ -10,7 +10,7 @@ I'm Rithwik, a Senior Data Scientist at ASDA. I work on the customer side, creat
 
    - [Battery Charts to visualise usage - Matplotlib](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/)
    - [Public Football Analytics work - Data Visualisations](https://twitter.com/i/events/1438470740441976843?s=20)
-   - [Passion Project - Founder, The Nutmeg Assist](https://nutmegassist.com/)
+   - [Scout Writer - The Celtic Way](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
    
 🔸Explore my Tableau dashboards on Tableau Public - [Profile](https://public.tableau.com/app/profile/rithwik.rajendran)
 
