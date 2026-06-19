@@ -1,34 +1,7 @@
 ### Hi there 👋
 
-I'm Rithwik, a Senior Data Scientist at ASDA. I work on the customer side, creating value for the company and customers using ML to drive business decisions.
-
-🔸I have completed my MSc in Data Science from the University of Bristol.
-
-🔸I previously worked at Wipro Limited as a Data Scientist, mainly writing code using Python and doing a lot of data analysis, visualisations, and some machine learning and natural language processing.
-
-🔸Some of my public football analytics (data visualisations) and writing 👇
-
-   - [Battery Charts to visualise usage - Matplotlib](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/)
-   - [Public Football Analytics work - Data Visualisations](https://twitter.com/i/events/1438470740441976843?s=20)
-   - [Scout Writer - The Celtic Way](https://www.celticway.co.uk/author/profile/297344.Rithwik_Rajendran/)
-   
-🔸Explore my Tableau dashboards on Tableau Public - [Profile](https://public.tableau.com/app/profile/rithwik.rajendran)
+I'm Rithwik, a Lead Data Scientist at ASDA.
 
 ### 📮 Get in touch
 
-You can reach out to me via [Email](mailto:rithwikrajendran@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rithwikrajendran/)
-
-<!--
-**rithwikrajendran/rithwikrajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my website [https://rithwikrajendran.github.io](https://rithwikrajendran.github.io) for more information.
